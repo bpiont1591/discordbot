@@ -1,0 +1,26 @@
+{
+  "name": "Discord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apt": "^0.0.2",
+    "archiver": "^5.3.1",
+    "axios": "^1.4.0",
+    "config.json": "^0.0.4",
+    "discord-buttons": "^4.0.0-deprecated",
+    "discord.js": "^13.14.0",
+    "ffmpeg": "^0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "instal": "^0.0.1-security",
+    "ms": "^2.1.3",
+    "qrcode": "^1.5.3",
+    "uuid": "^9.0.0",
+    "ytdl-core": "^4.11.5"
+  }
+}
